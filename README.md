@@ -63,6 +63,8 @@ Originally created by **Namida Kitsune** and **modified & improved by AzimCrew**
 ```text
 C D E F G A B
 [C] [D] [E] [F] [G] [A] [B]
+```
 
 ## Bugs
-- Pause button (Better use hotkeys than button in GUI)
+
+- Pause button (Better using hotkeys than pause button in GUI)
