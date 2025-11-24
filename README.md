@@ -22,13 +22,7 @@ Originally created by **Namida Kitsune** and **modified & improved by AzimCrew**
 
 ## 📸 Demo / Preview
 
-> Replace these with your actual images or GIFs  
-
-![GUI Screenshot](images/gui_screenshot.png)  
-*Clean GUI interface with buttons and status bar.*
-
-![Playing Sheet Music GIF](images/demo_playing.gif)  
-*Automatic sheet music playback in action.*
+> https://www.youtube.com/watch?v=PDG_DrI3iVU
 
 ---
 
